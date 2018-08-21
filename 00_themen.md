@@ -5,10 +5,10 @@ Suitable for term papers, B.Sc. theses, IMs (individual research modules), or M.
 
 Topics are grouped around the following not mutually-exclusive topics:
 
-- Discourse
-- Social Media
-- Computational Sociolinguistics
-- Others
+- [Discourse](#discourse)
+- [Social Media](#social-media)
+- [Computational Sociolinguistics](#computational-sociolinguistics)
+- [Others](#others)
 
 Ask me for more information! <tatjana.scheffler@uni-potsdam.de>
 
@@ -54,6 +54,11 @@ subsequent follow-ups.
 - correspond to which kind of stress contour?
 - meaning distinctions?
 - capitalization across languages (POS, etc?)
+
+---
+### Classification of offensive language in social media posts
+
+Based on an existing linguistic analysis and some training data, build a system that classifies whether a post is offensive or not (e.g., on Twitter). In particular, I would like to include syntactic patterns used for addressing/attacking other people, and the conversation context and metadata. 
 
 ---
 
@@ -123,6 +128,8 @@ https://www.duo.uio.no/bitstream/handle/10852/25297/ENGx4190xMasterxthesisxJenni
 ---
 
 ### A quantification of non-canonical word orders in spontaneous writing (and speech?) in German
+
+---
 
 ## Other Topics
 
