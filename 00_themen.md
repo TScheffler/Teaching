@@ -8,7 +8,7 @@ Topics are grouped around the following not mutually-exclusive topics:
 - [Discourse](#discourse)
 - [Social Media](#social-media)
 - [Computational Sociolinguistics](#computational-sociolinguistics)
-- [Others](#others)
+- [Others](#other-topics)
 
 Ask me for more information! <tatjana.scheffler@uni-potsdam.de>
 
