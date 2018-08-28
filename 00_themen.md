@@ -100,6 +100,13 @@ This could also be combined with a study of emoji across social media.
 
 ## Computational Sociolinguistics
 
+### Lexical change in German Twitter over time
+
+Kim et al. (2014) have shown that language models can be used to automatically identify words whose usage has changed over time. Can we reproduce this work on a much smaller time scale of 5-10 years of German Twitter posts? Which words are introduced or discontinued? Is any change in meaning discernable? Can different types of change (semantic/syntactic, broadening/narrowing, ...) be distinguished from each other (the authors give some pointers at the end)?
+
+Kim et al. (2014). Temporal Analysis of Language through Neural Language Models. https://www.aclweb.org/anthology/W14-2517
+
+---
 ### Diglossia: Präteritum vs. Perfekt im Deutschen
 
 Es gibt einige wohl bekannte Fälle, in denen die Schriftsprache und
